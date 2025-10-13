@@ -1,0 +1,11 @@
+root = true
+
+# tudo
+[*] 
+
+# espaço
+indent_style = space 
+
+# tab 2 espaços
+indent_size = 2   
+      

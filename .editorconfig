@@ -1,8 +1,0 @@
-root = true
-
-# para todos os arquivos
-[*]
-# usar espaço para identação
- indent_style = space 
- # 2 espaços
-indent_size = 2

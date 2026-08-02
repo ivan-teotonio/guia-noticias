@@ -1,0 +1,16 @@
+lista
+nvm ls
+instala
+nvm install lts/hydrogen
+mantém
+nvm alias default lts/hydrogen
+
+npm install next@13.1.6
+npm install react@18.2.0
+npm install react-dom@18.2.0
+
+registros do repositório
+git log
+git log --oneline
+Diferença entre o que tem no git e no arquivo
+git diff

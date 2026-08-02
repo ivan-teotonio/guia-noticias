@@ -1,0 +1,25 @@
+{
+  "name": "guia-noticias",
+  "version": "1.0.0",
+  "description": "Um projeto para aprender todo o desenvolvimento de um software do zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-teotonio/guia-noticias.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan-teotonio/guia-noticias/issues"
+  },
+  "homepage": "https://github.com/ivan-teotonio/guia-noticias#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

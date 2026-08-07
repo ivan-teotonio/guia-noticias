@@ -14,3 +14,41 @@ git log
 git log --oneline
 Diferença entre o que tem no git e no arquivo
 git diff
+
+junta com o commit anterior
+git commit --amend
+
+Organização de tarefas no github
+Clica em issues 
+dentro de issues clica em milestones
+coloca titulo = Milestone 0 Em construção
+clica em issues dentro da milestone -> new issue
+coloca o titulo da issue = 
+Colocar o site no dominio .com.br
+Definir estilização do código e configurar editor
+Programar página em construção
+
+Volta pra lista de issues -> abre ela
+canto direito clica milestone -> selecione a milestone especifica
+
+Criar tarefa na issue
+dentro dela edita e - [ ] Descrião da tarefa
+
+Sincronizar vscode
+Clica em Ligar o sincronizador do vscode basta autorizar
+
+Editor config 
+criar o arquivo .editorconfig
+colola nele
+root = true
+[*]  pra todos
+indent_style = space quando der tab
+indent_size = 2  espaços
+
+Prettier
+npm install prettier -D
+package.json
+"lint:check": "prettier --check ."
+"lint:fix": "prettier --write ."
+terminal
+npm run lint:check

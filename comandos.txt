@@ -52,3 +52,10 @@ package.json
 "lint:fix": "prettier --write ."
 terminal
 npm run lint:check
+instala o prettier
+configurações do vs code
+formarter na pesquisa
+coloca o prettier
+na pesquisa formatter on save
+marca
+e auto save desmarca

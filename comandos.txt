@@ -59,3 +59,8 @@ coloca o prettier
 na pesquisa formatter on save
 marca
 e auto save desmarca
+e criar o .prettierignore
+e colocar o .next nele
+
+testes automatizados
+npm run -D jest

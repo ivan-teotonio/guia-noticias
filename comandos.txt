@@ -63,4 +63,6 @@ e criar o .prettierignore
 e colocar o .next nele
 
 testes automatizados
-npm run -D jest
+npm install -D jest
+
+proxima aula 61

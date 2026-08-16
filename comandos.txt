@@ -71,3 +71,10 @@ psql --host=localhost --username=postgres -port=5432
 
 quando docker compose estiver numa pasta
 docker compose  -f infra/compose.yaml up
+
+npm install pg@8.11.3
+
+abrir arquivos sem ir no vscode
+ctrl + p
+nome do arquivo + @ 
+ex: pk@sc = package.json

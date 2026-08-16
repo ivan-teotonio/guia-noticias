@@ -9,7 +9,7 @@
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
     "jest": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ivan-teotonio/guia-noticias#readme",
   "dependencies": {
     "next": "^13.1.6",
+    "pg": "^8.11.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

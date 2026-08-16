@@ -65,4 +65,9 @@ e colocar o .next nele
 testes automatizados
 npm install -D jest
 
-proxima aula 61
+se conectar ap pgsl
+sudo apt install postgresql-client
+psql --host=localhost --username=postgres -port=5432
+
+quando docker compose estiver numa pasta
+docker compose  -f infra/compose.yaml up

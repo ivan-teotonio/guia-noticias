@@ -78,3 +78,5 @@ abrir arquivos sem ir no vscode
 ctrl + p
 nome do arquivo + @ 
 ex: pk@sc = package.json
+
+auka 21 89

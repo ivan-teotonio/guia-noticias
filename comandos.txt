@@ -79,4 +79,8 @@ ctrl + p
 nome do arquivo + @ 
 ex: pk@sc = package.json
 
-auka 21 89
+Migrations
+npm i node-pg-migrate@6.2.2
+no package.json
+"migration:create": "node-pg-migrate create"
+npm run migration:create first migration test
